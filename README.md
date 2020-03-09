@@ -2,7 +2,7 @@
 
 I have added: 
 - [Jupyter notebook for reading in the data using Python](explore_covid_data.ipynb) 
-- [health district polygons as GeoJson](healthDistrictsEPSG4326.geojson)
+- [health district polygons as GeoJson](healthDistrictsEPSG4326.geojson) (Based on [Statistics Finland municipality polygons](https://www.stat.fi/org/avoindata/paikkatietoaineistot/kuntapohjaiset_tilastointialueet.html) and a [list of health care districts by municipality from Kunta Liitto](https://www.kuntaliitto.fi/sosiaali-ja-terveysasiat/sairaanhoitopiirien-jasenkunnat)
 
 original readme below.
 
