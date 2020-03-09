@@ -1,3 +1,13 @@
+# Quick exploration of the covid-19 data released by Helsingin sanomat
+
+I have added: 
+- Jupyter notebook for reading in the data
+- health district polygons as GeoJson
+
+/VH
+
+
+
 # Suomen koronavirus-tartuntatilanne avoimena datana
 
 Helsingin Sanomat julkaisee Suomen koronavirus-tartunnat ja niiden tiedossa olevat lähteet avoimena datana. HS on kerännyt aineiston julkisista lähteistä: tiedotustilaisuuksista, mediasta ja haastatteluista. Dataa päivitetään sitä mukaa kun uusia tietoja tulee. 
