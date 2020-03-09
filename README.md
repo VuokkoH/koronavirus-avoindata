@@ -4,6 +4,8 @@ I have added:
 - Jupyter notebook for reading in the data
 - health district polygons as GeoJson
 
+original readme below.
+
 /VH
 
 
