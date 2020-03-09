@@ -1,8 +1,8 @@
 # Quick exploration of the covid-19 data released by Helsingin sanomat
 
 I have added: 
-- Jupyter notebook for reading in the data
-- health district polygons as GeoJson
+- [Jupyter notebook for reading in the data using Python](explore_covid_data.ipynb) 
+- [health district polygons as GeoJson](healthDistrictsEPSG4326.geojson)
 
 original readme below.
 
