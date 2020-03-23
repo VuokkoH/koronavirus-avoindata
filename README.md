@@ -6,7 +6,7 @@ This repository contains two Jupyter Notebooks:
 
 This repository was built on top a repository from [the Helsingin Sanomat datadesk](https://github.com/HS-Datadesk/koronavirus-avoindata) which I spotted on [Twitter](https://twitter.com/EsaMakinen/status/1237007961853173761). Please note that the example COVID-19 dataset in this repository is outdated.
 
-## health district polygons for Finland as GeoJson
+## Health district polygons for Finland as GeoJson
 
 - [healthDistrictsEPSG4326.geojson](healthDistrictsEPSG4326.geojson) (WGS 84; click to view in bowser)
 - [healthDistrictsEPSG3067.geojson](healthDistrictsEPSG3067.geojson) (ETRS89 / TM35FIN(E,N) - Finland; download geojson and open, for example, in QGIS)
