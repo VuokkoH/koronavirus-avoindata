@@ -1,8 +1,8 @@
 # Joining COVID-19 data to health care district polygons in Finland
 
 This repository contains two Jupyter Notebooks:
-1. Worflow for creating GIS layer for health district polygons: [create_health_district_polygons.ipynb](create_health_district_polygons.ipynb)
-2. Example of how to join COVID-19 data by Helsingin Sanomat to the health district layer: [explore_covid_data.ipynb](explore_covid_data.ipynb) 
+1. Workflow for **creating GIS layer for health district polygons**: [create_health_district_polygons.ipynb](create_health_district_polygons.ipynb)
+2. Example of **how to join COVID-19 data to the health district layer**: [explore_covid_data.ipynb](explore_covid_data.ipynb) 
 
 This repository was built on top a repository from [the Helsingin Sanomat datadesk](https://github.com/HS-Datadesk/koronavirus-avoindata) which I spotted on [Twitter](https://twitter.com/EsaMakinen/status/1237007961853173761). Please note that the example COVID-19 dataset in this repository is outdated.
 
@@ -11,10 +11,9 @@ This repository was built on top a repository from [the Helsingin Sanomat datade
 - [healthDistrictsEPSG4326.geojson](healthDistrictsEPSG4326.geojson) (WGS 84; click to view in bowser)
 - [healthDistrictsEPSG3067.geojson](healthDistrictsEPSG3067.geojson) (ETRS89 / TM35FIN(E,N) - Finland; download geojson and open, for example, in QGIS)
 
-
 The health district polygons are based on [Statistics Finland municipality polygons](https://www.stat.fi/org/avoindata/paikkatietoaineistot/kuntapohjaiset_tilastointialueet.html) and a [list of health care districts by municipality from Kunta Liitto](https://www.kuntaliitto.fi/sosiaali-ja-terveysasiat/sairaanhoitopiirien-jasenkunnat). See the [Jupyter notebook](create_health_district_polygons.ipynb) for processing steps. Please use at your own discretion (no warranty that they are correct or up-to-date).
 
-## Copyright information for the COVID-19 data: MIT-lisenssi
+## Copyright information for the COVID-19 data: MIT-licence
 
 Copyright 2020 Helsingin Sanomat
 
