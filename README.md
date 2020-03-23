@@ -11,6 +11,8 @@ This repository was built on top a repository from [the Helsingin Sanomat datade
 - [healthDistrictsEPSG4326.geojson](healthDistrictsEPSG4326.geojson) (WGS 84; click to view in bowser)
 - [healthDistrictsEPSG3067.geojson](healthDistrictsEPSG3067.geojson) (ETRS89 / TM35FIN(E,N) - Finland; download geojson and open, for example, in QGIS)
 
+<script src="https://embed.github.com/view/geojson/VuokkoH/koronavirus-avoindata/master/healthDistrictsEPSG4326.geojson"></script>
+
 The health district polygons are based on [Statistics Finland municipality polygons](https://www.stat.fi/org/avoindata/paikkatietoaineistot/kuntapohjaiset_tilastointialueet.html) and a [list of health care districts by municipality from Kunta Liitto](https://www.kuntaliitto.fi/sosiaali-ja-terveysasiat/sairaanhoitopiirien-jasenkunnat). See the [Jupyter notebook](create_health_district_polygons.ipynb) for processing steps. Please use at your own discretion (no warranty that they are correct or up-to-date).
 
 ## Copyright information for the COVID-19 data: MIT-licence
