@@ -4,7 +4,7 @@ This repository contains two Jupyter Notebooks:
 1. Worflow for creating GIS layer for health district polygons: [create_health_district_polygons.ipynb](create_health_district_polygons.ipynb)
 2. Example of how to join COVID-19 data by Helsingin Sanomat to the health district layer: [explore_covid_data.ipynb](explore_covid_data.ipynb) 
 
-## health district polygons for FInland as GeoJson
+## health district polygons for Finland as GeoJson
 
 - [healthDistrictsEPSG4326.geojson](healthDistrictsEPSG4326.geojson) (WGS 84; click to view in bowser)
 - [healthDistrictsEPSG3067.geojson](healthDistrictsEPSG3067.geojson) (ETRS89 / TM35FIN(E,N) - Finland; download geojson and open, for example, in QGIS)
