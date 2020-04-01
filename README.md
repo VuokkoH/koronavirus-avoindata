@@ -9,7 +9,7 @@ This repository was forked from [the Helsingin Sanomat datadesk](https://github.
 ## View and download health care district GIS layers
 
 - [healthDistrictsEPSG4326.geojson](healthDistrictsEPSG4326.geojson) (WGS 84; click to view in bowser)
-- [healthDistrictsEPSG3067.geojson](healthDistrictsEPSG3067.geojson) (ETRS89 / TM35FIN(E,N) - Finland; download geojson and open, for example, in QGIS)
+- [healthDistrictsEPSG3067.geojson](healthDistrictsEPSG3067.geojson) (ETRS89 / TM35FIN; download file and open, for example, in QGIS)
 
 There is also a [csv file containing population per health care district on 31.12.2018](healtCareDistricts_population_31_12_2018.csv) based on information from Statistics Finland.
  
